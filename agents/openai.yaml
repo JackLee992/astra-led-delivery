@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra 主导交付"
+  short_description: "通用任务协作：Astra 负责关键思路与难题，支持低额度执行模型"
+  default_prompt: "使用 $astra-led-delivery 完成本任务，由最新可用 Astra 负责核心思路与难题，按指定执行模型和思考深度（如 5.5 extra high）完成具体工作、核验与交付。"
